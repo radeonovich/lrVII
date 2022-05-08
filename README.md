@@ -1,3 +1,3 @@
 # lrVII
 
-It was a long work.
+It was long.
